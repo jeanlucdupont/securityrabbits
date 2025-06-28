@@ -12,3 +12,6 @@ I'm also a programmer, so I made a program that gathers and sends most of the in
 Some of my colleagues and peers find it useful, so I've made it public. It's as simple as that.
 
 ![image](https://github.com/user-attachments/assets/42942be3-5963-4878-9709-ec2536d52c75)
+
+
+![image](https://github.com/user-attachments/assets/f8ef3d13-b36d-4f2e-9f94-3e5fee177369)
